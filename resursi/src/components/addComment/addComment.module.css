@@ -1,0 +1,16 @@
+.addCommentTitle {
+  margin-bottom: 20px;
+}
+
+.addCommentContainer {
+  background-color: #f3f3f3;
+  margin-top: 40px;
+  width: 70%;
+  padding: 5% 10%;
+  margin: 60px auto;
+  border-radius: 5px;
+}
+
+.addCommentButton {
+  margin-top: 30px;
+}
